@@ -19,7 +19,7 @@
     word-break: break-all;
     width:250px;
     height:50px;
-    border : 2px solid lightgrey;
+    border : 2px solid #cfae1b;
     text-align: center;
     cursor: pointer;
     position: absolute;
@@ -28,8 +28,8 @@
     color : #cfae1b;
 }
 #start:hover{
-    border: 3px solid lightseagreen;
-    color : #856f10;
+    border: 3px solid #cfa904;
+    color : #cfa904;
 }
 
 #qImg{
