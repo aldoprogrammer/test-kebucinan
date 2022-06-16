@@ -25,11 +25,11 @@
     position: absolute;
     left:230px;
     top:50px;
-    color : lightgrey;
+    color : #cfae1b;
 }
 #start:hover{
     border: 3px solid lightseagreen;
-    color : lightseagreen;
+    color : #856f10;
 }
 
 #qImg{
